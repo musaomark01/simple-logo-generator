@@ -41,7 +41,7 @@ Navigate to the simple logo generator directory: cd simple-logo-generator
 Install Node Modules: npm install
 Generate logo: node index.js
 ## example
-<img src="assets/images\Screenshot2023-10-17 210134.png">
+<img src="assets/images/Screenshot 2023-10-17 210134.png">
 
 
 ## Questions
