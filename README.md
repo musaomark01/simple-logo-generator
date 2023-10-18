@@ -40,6 +40,10 @@ Clone the Repository: git clone [SSH URL of the repository]
 Navigate to the simple logo generator directory: cd simple-logo-generator
 Install Node Modules: npm install
 Generate logo: node index.js
+## example
+<img src="assets/images\Screenshot2023-10-17 210134.png">
+
+
 ## Questions
 GitHub: [musaomark01](https://github.com/musaomark01 )
 For any additional questions, please feel free to contact me at musaomark01@gmail.com.
